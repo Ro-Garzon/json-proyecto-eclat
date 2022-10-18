@@ -1,0 +1,238 @@
+{
+    "caballeros":[
+    {   "id":1,
+        "imagen":"https://ro-garzon.github.io/imagenes/perfHombre10.jpg",
+        "nombre":"Cinnamon Men",
+        "descripcion":"Con un sutil toque de canela que aporta masculinidad y confianza, ideal para hombres arriesgados",
+        "precio":"10.500"
+    },
+    {   "id":2,
+        "imagen":"https://ro-garzon.github.io/imagenes/perfHombre3.jpg",
+        "nombre":"Temptation",
+        "descripcion":"Con un audaz acorde amaderado que inspira plenitud y serenidad al hombre moderno.",
+        "precio":"12.300"
+    },
+    {   "id":3,
+        "imagen":"https://ro-garzon.github.io/imagenes/perfHombre2.jpg",
+        "nombre":"Sunset Cool Water",
+        "descripcion":"Una fragancia fresca y masculina para un atardecer de ensueño",
+        "precio":"9.800"
+    },
+    {   "id":4,
+        "imagen":"https://ro-garzon.github.io/imagenes/perfhombre1.jpg",
+        "nombre":"Michelangelo",
+        "descripcion":"Ideal para hombres extrovertidos. Notas de salida: salvia, geranio y pepino",
+        "precio":"7.900"
+    },
+    {   "id":5,
+        "imagen":"https://ro-garzon.github.io/imagenes/perfhombre5.jpg",
+        "nombre":"Wonderwall",
+        "descripcion":"Con deliciosas notas de corazón provenientes del almizcle, el cilantro y la alcaravea, combinadas con notas de fondo del tabaco y la bergamota",
+        "precio":"13.400"
+    },
+    {   "id":6,
+        "imagen":"https://ro-garzon.github.io/imagenes/perfhombre9.jpg",
+        "nombre":"Rennaisance",
+        "descripcion":"Una fragancia creada para conquistar e inspirar al hombre moderno. Sus notas de fondo se componen de almizcle, musgo de roble y cedro",
+        "precio":"6.500"
+    }
+   ],
+   "damas":[
+    {   "id":1,
+        "imagen":"https://ro-garzon.github.io/imagenes/fragMujer1.jpg",
+        "nombre":"Sweet blossom",
+        "descripcion":"Su aroma floral transporta valores de libertad, inocencia y delicadez. Su salida es fresca y semi-chispeante, totalmente primaveral.",
+        "precio":"10.500"
+    },
+    {   "id":2,
+        "imagen":"https://ro-garzon.github.io/imagenes/fragMujer2.jpg",
+        "nombre":"Séduisante",
+        "descripcion":"Con delicadas notas amaderadas, combinadas con la seducción del jazmin y el almizcle, le aportan a la mujer actual sobriedad y elegancia.",
+        "precio":"12.300"
+    },
+    {   "id":3,
+        "imagen":"https://ro-garzon.github.io/imagenes/fragMujer3.jpg",
+        "nombre":"Lovely girl",
+        "descripcion":"Encanto frutal de naranja dulce, con notas de salida silvestres y atrevidas que combinan la frescura del jengibre y la bergamota.",
+        "precio":"9.800"
+    },
+    {   "id":4,
+        "imagen":"https://ro-garzon.github.io/imagenes/fragMujer4.jpg",
+        "nombre":"Enchantée",
+        "descripcion":"El aroma del lirio y el dulzor del caramelo se fusionan para dar vida a este perfume con aires de juventud y sensibilidad",
+        "precio":"7.900"
+    },
+    {   "id":5,
+        "imagen":"https://ro-garzon.github.io/imagenes/fragMujer5.jpg",
+        "nombre":"Delirio Rose",
+        "descripcion":"Su salida floral y aligerada destaca el frescor de la primavera, es el perfume ideal para las amantes de esta hermosa estación",
+        "precio":"13.400"
+    },
+    {   "id":6,
+        "imagen":"https://ro-garzon.github.io/imagenes/fragMujer6.jpg",
+        "nombre":"La La Land",
+        "descripcion":"La lavanda, el coco y el almizcle fueron integrados cuidadosamente para crear este aroma único e incomparable, su salida refrescante y seductora te sorprenderá.",
+        "precio":"6.500"
+    }
+   ],
+   "niños":[
+    {   "id":1,
+        "imagen":"https://ro-garzon.github.io/imagenes/perfNi%C3%B1a1.jpeg",
+        "nombre":"Madelaine",
+        "descripcion":"Notas de Salida: Matices florales. Notas de Corazón: Azahar y rosas. Notas de Fondo: Lirios y tulipanes.",
+        "precio":"10.500"
+    },
+    {   "id":2,
+        "imagen":"https://ro-garzon.github.io/imagenes/perfNi%C3%B1a2.webp",
+        "nombre":"Lorelei",
+        "descripcion":"Notas de Salida: Pomelo rosado, Mandarina, Cereza, Durazno, Mora. Notas de Corazón: Geranio, Lila, lavanda, Rosa. Notas de Fondo: Pepino, Almizcle, Vainilla.",
+        "precio":"12.300"
+    },
+    {   "id":3,
+        "imagen":"https://ro-garzon.github.io/imagenes/perfNi%C3%B1a3.webp",
+        "nombre":"Pretty Smile",
+        "descripcion":"Notas de Salida: Gardenias, rosas. Notas de Corazón: Margaritas y lirios. Notas de Fondo: Ámbar y durazno.",
+        "precio":"9.800"
+    },
+    {   "id":4,
+        "imagen":"https://ro-garzon.github.io/imagenes/perfNi%C3%B1a4.jpg",
+        "nombre":"Conny",
+        "descripcion":"Notas de Salida:  Rosas. Notas de Corazón: Lilas, frutas dulces. Notas de Fondo: Sándalo y tulipán.",
+        "precio":"7.900"
+    },
+    {   "id":5,
+        "imagen":"https://ro-garzon.github.io/imagenes/perfNi%C3%B1o1.webp",
+        "nombre":"Santi",
+        "descripcion":"Notas de Salida: Coco y bamboo. Notas de Corazón: Jengibre y especias. Notas de Fondo: Sándalo, canela y ámbar",
+        "precio":"13.400"
+    },
+    {   "id":6,
+        "imagen":"https://ro-garzon.github.io/imagenes/perfNi%C3%B1o2.jpeg",
+        "nombre":"Vibez",
+        "descripcion":"Notas deSalida: Cítricos, Ciruela, Damasco, Pera. Notas de Corazón: Calendula, Geranio, Fresias, Rosas. Notas de Fondo: Violeta, Cassis, Romero, Sándalo, Vainilla",
+        "precio":"6.500"
+    },
+    {   "id":7,
+        "imagen":"https://ro-garzon.github.io/imagenes/perfNi%C3%B1o3.jpg",
+        "nombre":"Massimo",
+        "descripcion":"Notas de Salida: Mandarina, Pimienta y Nuez Moscada. Notas de Corazón: Lavandín, Ylang y Albaricoque. Notas de Fondo: Ámbar y Durazno.",
+        "precio":"13.400"
+    },
+    {   "id":8,
+        "imagen":"https://ro-garzon.github.io/imagenes/perfNi%C3%B1o4.jpg",
+        "nombre":"Special little boy",
+        "descripcion":"Notas de Salida: Maracuyá, Limón, Bergamota. Notas de Corazón: Pepino, Cedro, Vetiver. Notas de Fondo: Almizcle, Lilas.",
+        "precio":"6.500"
+    }
+   ],
+   "maquillaje":[
+    {   "id":1,
+        "imagen":"https://ro-garzon.github.io/imagenes/labialliquido.jpg",
+        "nombre":"Labial liquido",
+        "descripcion":"",
+        "precio":"10.500"
+    },
+    {   "id":2,
+        "imagen":"https://ro-garzon.github.io/imagenes/labialesbarra.jpg",
+        "nombre":"Labiales en Barra",
+        "descripcion":"",
+        "precio":"12.300"
+    },
+    {   "id":3,
+        "imagen":"https://ro-garzon.github.io/imagenes/labialbarra.jpg",
+        "nombre":"Labial en Barra",
+        "descripcion":"",
+        "precio":"9.800"
+    },
+    {   "id":4,
+        "imagen":"https://ro-garzon.github.io/imagenes/paletasombras.jpg",
+        "nombre":"Paleta de sombras",
+        "descripcion":"",
+        "precio":"7.900"
+    },
+    {   "id":5,
+        "imagen":"https://ro-garzon.github.io/imagenes/brochas.jpg",
+        "nombre":"Brochas",
+        "descripcion":"",
+        "precio":"13.400"
+    },
+    {   "id":6,
+        "imagen":"https://ro-garzon.github.io/imagenes/esponjasbase.jpg",
+        "nombre":"Esponjas base",
+        "descripcion":"",
+        "precio":"6.500"
+    }
+   ],
+   "promociones":[
+    {   "id":1,
+        "imagen":"https://ro-garzon.github.io/imagenes/promociones1.jpg",
+        "nombre":"Divinidad",
+        "descripcion":"Eau de parfum",
+        "descuento":"25% OFF",
+        "precio":"10.500"
+    },
+    {   "id":2,
+        "imagen":"https://ro-garzon.github.io/imagenes/promociones2.jpg",
+        "nombre":"Sensorium",
+        "descripcion":"Eau de parfum",
+        "descuento":"40% OFF",
+        "precio":"12.300"
+    },
+    {   "id":3,
+        "imagen":"https://ro-garzon.github.io/imagenes/perfhombre6.jpg",
+        "nombre":"Hernan Praga N°6",
+        "descripcion":"Eau de cologne",
+        "descuento":"20% OFF",
+        "precio":"9.800"
+    },
+    {   "id":4,
+        "imagen":"https://ro-garzon.github.io/imagenes/perfhombre7.jpg",
+        "nombre":"Volonté",
+        "descripcion":"Eau de cologne",
+        "descuento":"10% OFF",
+        "precio":"7.900"
+    },
+    {   "id":5,
+        "imagen":"https://ro-garzon.github.io/imagenes/perfhombre8.jpg",
+        "nombre":"Petit Enfant",
+        "descripcion":"Eau de cologne",
+        "descuento":"35% OFF",
+        "precio":"13.400"
+    },
+    {   "id":6,
+        "imagen":"https://ro-garzon.github.io/imagenes/promociones3.webp",
+        "nombre":"Selene Eyeshadow",
+        "descripcion":"Paleta de sombras",
+        "descuento":"15% OFF",
+        "precio":"6.500"
+    },
+    {   "id":7,
+        "imagen":"https://ro-garzon.github.io/imagenes/promociones4.jpeg",
+        "nombre":"Dúo kit Moonlight",
+        "descripcion":"Base en polvo + Mascara",
+        "descuento":"20% OFF",
+        "precio":"6.500"
+    },
+    {   "id":8,
+        "imagen":"https://ro-garzon.github.io/imagenes/promociones5.webp",
+        "nombre":"Labial Passion Rouge",
+        "descripcion":"Labial en barra",
+        "descuento":"30% OFF",
+        "precio":"6.500"
+    },
+    {   "id":9,
+        "imagen":"https://ro-garzon.github.io/imagenes/promociones6.webp",
+        "nombre":"Rubor + Labial Tamara",
+        "descripcion":"Polvo rubor y barra de labial",
+        "descuento":"15% OFF",
+        "precio":"6.500"
+    },
+    {   "id":10,
+        "imagen":"https://ro-garzon.github.io/imagenes/promociones7.webp",
+        "nombre":"Henai Skin Care",
+        "descripcion":"Kit de skin care",
+        "descuento":"40% OFF",
+        "precio":"6.500"
+    }
+   ]
+}
