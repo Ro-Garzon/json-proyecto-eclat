@@ -182,8 +182,8 @@
         "imagen":"https://ro-garzon.github.io/imagenes/perfhombre6.jpg",
         "nombre":"Hernan Praga N°6",
         "descripcion":"Eau de cologne",
-        "descuento":"20% OFF",
-        "precio":"9.800"
+        "descuento":"25% OFF",
+        "precio":"8.560"
     },
     {   "id":4,
         "imagen":"https://ro-garzon.github.io/json-proyecto-eclat//imagenes/orquid.jpg",
@@ -196,15 +196,15 @@
         "imagen":"https://ro-garzon.github.io/imagenes/perfhombre7.jpg",
         "nombre":"Volonté",
         "descripcion":"Eau de cologne",
-        "descuento":"10% OFF",
+        "descuento":"25% OFF",
         "precio":"6.990"
     },
     {   "id":6,
         "imagen":"https://ro-garzon.github.io/imagenes/perfhombre8.jpg",
         "nombre":"Petit Enfant",
         "descripcion":"Eau de cologne",
-        "descuento":"35% OFF",
-        "precio":"13.400"
+        "descuento":"25% OFF",
+        "precio":"10.400"
     },
     {   "id":7,
         "imagen":"https://ro-garzon.github.io/imagenes/promociones3.webp",
@@ -224,8 +224,8 @@
         "imagen":"https://ro-garzon.github.io/imagenes/promociones5.webp",
         "nombre":"Labial Passion Rouge",
         "descripcion":"Labial en barra",
-        "descuento":"30% OFF",
-        "precio":"1.030"
+        "descuento":"50% OFF",
+        "precio":"576"
     },
     {   "id":10,
         "imagen":"https://ro-garzon.github.io/json-proyecto-eclat//imagenes/oniric.jpg",
