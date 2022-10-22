@@ -188,9 +188,9 @@
     {   "id":4,
         "imagen":"https://ro-garzon.github.io/json-proyecto-eclat//imagenes/orquid.jpg",
         "nombre":"Orquid Rouse",
-        "descripcion":"Eau de parfum",
-        "descuento":"25% OFF - Oferta Lanzamiento",
-        "precio":"8.760"
+        "descripcion":"Oferta lanzamiento",
+        "descuento":"20% OFF",
+        "precio":"10.760"
     },   
     {   "id":5,
         "imagen":"https://ro-garzon.github.io/imagenes/perfhombre7.jpg",
